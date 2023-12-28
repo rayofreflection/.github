@@ -1,6 +1,6 @@
 # Ray of Reflection
 
-![ROR_banner](https://cdn.shopify.com/s/files/1/0611/2208/5028/files/Ray_of_reflection_logo_white_tag.png?v=1661965435 "ROR_banner")
+![ROR_banner](../gh_resource/Fight_club_2.jpg "FC_banner")
 
 Welcome to Ray of Reflection - Where Coding Meets Art!
 
@@ -31,6 +31,7 @@ _Yet to be done_
 ## 📜 Code of Conduct
 
 Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and inclusive experience for everyone in our creative community.
+(Don't click the above link on CODE OF CONDUCT, it won't work.)
 
 ---
 
@@ -39,5 +40,3 @@ Regards,
 *Revanth A,*
 
 *Founder - Ray of Reflection*
-
-![Thank_you](https://cdn.shopify.com/s/files/1/0611/2208/5028/files/end_banner_bad09693-e97f-409f-b079-183727b29c7f.png?v=1664241228 "end_banner")
