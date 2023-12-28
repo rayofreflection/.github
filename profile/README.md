@@ -1,6 +1,6 @@
 # Ray of Reflection
 
-![ROR_banner](../gh_resource/Fight_club_2.jpg "FC_banner")
+![ROR_banner](https://github.com/rayofreflection/.github/blob/main/gh_resource/Fight_club_2.jpg "FC_banner")
 
 Welcome to Ray of Reflection - Where Coding Meets Art!
 
