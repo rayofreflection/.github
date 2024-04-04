@@ -16,3 +16,10 @@ I just want to express my thoughts, my stories freely without any restriction, w
 Regards,
 
 *Revanth Arunachalam*
+
+<div align="center">
+        
+   ## The first rule of fight club is ...
+   ![Visitor Count](https://profile-counter.glitch.me/{rayofreflection}/count.svg)
+        
+</div>
