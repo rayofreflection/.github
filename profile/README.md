@@ -1,6 +1,6 @@
 # Ray of Reflection
 
-![ROR_banner](https://github.com/rayofreflection/.github/blob/main/gh_resource/Fight_club_2.jpg "FC_banner")
+![ROR_banner](https://github.com/rayofreflection/.github/blob/main/gh_resource/Marla_Singer_Original.jpeg "Marla Singer FC")
 
 Feel yourself guys. I just copy pasted some template from the ChatGPT previously.
 I'm thinking there is no use in it even though its professional.
