@@ -1,15 +1,17 @@
-# Ray of Reflection
+# Ray of Reflection community note
 
 ![ROR_banner](https://github.com/rayofreflection/.github/blob/main/gh_resource/Marla_Singer_Original.jpeg "Marla Singer FC")
 
-Feel yourself guys. I just copy pasted some template from the ChatGPT previously.
-I'm thinking there is no use in it even though its professional.
+So, as the title indicates, this is a interest group about computer vision and signal/image processing research community which is limited to the sensor fusion domain in ADAS.
 
-I'm into coding for past 5 years. From my collage days to present. Am I satisfied with this? Does this GitHub repos thing seems so familier like a social media?. Are we urging towards getting stars similar to the likes in social media. But everything is a reward right? What is the purpose of reward if we are doing what we like.
+In case ADAS or AV (Autonomous Vehicles), the sensor includes camera, LiDAR, RADAR, Ultrasonic. Each sensor will have different kind of output. These output will differ by units, bandwidth and its properties.
+Sensor fusion is algorithm by which these above data can be correlated with each other to get a useful insights which can be used in a application.
 
-Are we tailored to contribute back to the society just for the sake that we learnt something from it.
+I'm very much interested in sharing more about the traditional heuristic algorithms rather than moving to a complete deep learning based approach. I love traditional algorithms than this modern deep learning approaches. Even though the deep learning has gained so much attention these days with the fast growing Gen AI and stuffs, in case computer vision, I believe learning traditional CV methods would encourage us excel in heuristics which is necessary for the preprocessing and postprocessing stages which includes cleaning and annotation.
 
-I just want to express my thoughts, my stories freely without any restriction, without any hesitation. If it breaks the coding ethics, let it be. Who cares?
+And, lets start the discussion...
+
+PS: The image embeded above in Marla Singer (A fictional character in Fight Club movie.) which is not a copyright material drwn by [Supriya Arunachalam](https://www.linkedin.com/in/supriya-arunachalam-3520b4208/). I love fight club and its philosophy a lot. So, just included it in my homepage.
 
 ---
 
